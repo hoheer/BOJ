@@ -4,6 +4,7 @@
 [2490](https://www.acmicpc.net/problem/2490)
 [2562](https://www.acmicpc.net/problem/2562)
 [2576](https://www.acmicpc.net/problem/2576)
+[2587](https://www.acmicpc.net/problem/2587)
 [2752](https://www.acmicpc.net/problem/2752)
 [2753](https://www.acmicpc.net/problem/2753)
 [9498](https://www.acmicpc.net/problem/9498)
