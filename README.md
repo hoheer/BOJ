@@ -1,6 +1,6 @@
 # 백준 
 
-
+[1267](https://www.acmicpc.net/problem/1267)
 [2309](https://www.acmicpc.net/problem/2309)
 [2480](https://www.acmicpc.net/problem/2480)
 [2490](https://www.acmicpc.net/problem/2490)
