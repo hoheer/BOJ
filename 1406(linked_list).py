@@ -2,6 +2,7 @@ import sys
 
 
 # node : class, a single element of list
+# doubly linked list
 class Node:
     def __init__(self, data):
         self.data = data
@@ -11,6 +12,7 @@ class Node:
 
 # linked list, node and list is diff
 class Link:
+    # init head and tail with None data
     def __init__(self):
         self.head = Node(None)
         self.head.next = Node(None)
