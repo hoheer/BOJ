@@ -1,5 +1,5 @@
 import importlib
-problem = importlib.import_module('0_10000.2000_3000.2178')
+problem = importlib.import_module('25193')
 
 
 if __name__ == "__main__":
